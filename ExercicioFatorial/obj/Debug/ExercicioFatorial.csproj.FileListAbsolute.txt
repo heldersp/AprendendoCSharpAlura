@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\ExercicioFatorial\bin\Debug\ExercicioFatorial.exe.config
+C:\AprendendoCSharp\ExercicioFatorial\bin\Debug\ExercicioFatorial.exe
+C:\AprendendoCSharp\ExercicioFatorial\bin\Debug\ExercicioFatorial.pdb
+C:\AprendendoCSharp\ExercicioFatorial\obj\Debug\ExercicioFatorial.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\ExercicioFatorial\obj\Debug\ExercicioFatorial.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\ExercicioFatorial\obj\Debug\ExercicioFatorial.exe
+C:\AprendendoCSharp\ExercicioFatorial\obj\Debug\ExercicioFatorial.pdb

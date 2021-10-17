@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\AliquotaIR\obj\Debug\AliquotaIR.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\AliquotaIR\obj\Debug\AliquotaIR.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\AliquotaIR\bin\Debug\AliquotaIR.exe.config
+C:\AprendendoCSharp\AliquotaIR\bin\Debug\AliquotaIR.exe
+C:\AprendendoCSharp\AliquotaIR\bin\Debug\AliquotaIR.pdb
+C:\AprendendoCSharp\AliquotaIR\obj\Debug\AliquotaIR.exe
+C:\AprendendoCSharp\AliquotaIR\obj\Debug\AliquotaIR.pdb

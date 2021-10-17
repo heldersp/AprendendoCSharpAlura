@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\ExercicioMultiplo3\bin\Debug\ExercicioMultiplo3.exe.config
+C:\AprendendoCSharp\ExercicioMultiplo3\bin\Debug\ExercicioMultiplo3.exe
+C:\AprendendoCSharp\ExercicioMultiplo3\bin\Debug\ExercicioMultiplo3.pdb
+C:\AprendendoCSharp\ExercicioMultiplo3\obj\Debug\ExercicioMultiplo3.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\ExercicioMultiplo3\obj\Debug\ExercicioMultiplo3.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\ExercicioMultiplo3\obj\Debug\ExercicioMultiplo3.exe
+C:\AprendendoCSharp\ExercicioMultiplo3\obj\Debug\ExercicioMultiplo3.pdb

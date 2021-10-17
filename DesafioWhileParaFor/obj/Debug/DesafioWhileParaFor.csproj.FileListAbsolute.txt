@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\DesafioWhileParaFor\bin\Debug\DesafioWhileParaFor.exe.config
+C:\AprendendoCSharp\DesafioWhileParaFor\bin\Debug\DesafioWhileParaFor.exe
+C:\AprendendoCSharp\DesafioWhileParaFor\bin\Debug\DesafioWhileParaFor.pdb
+C:\AprendendoCSharp\DesafioWhileParaFor\obj\Debug\DesafioWhileParaFor.csproj.AssemblyReference.cache
+C:\AprendendoCSharp\DesafioWhileParaFor\obj\Debug\DesafioWhileParaFor.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\DesafioWhileParaFor\obj\Debug\DesafioWhileParaFor.exe
+C:\AprendendoCSharp\DesafioWhileParaFor\obj\Debug\DesafioWhileParaFor.pdb
